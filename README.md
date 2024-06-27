@@ -35,7 +35,4 @@ plt.show()
 ```
 
 ### Results
-![Likelihood of Top Skills in Job Postings](3_Project\images\Likelihood of Top Skills in Job Postings.png)
-
-
-
+![Top_Skills](3_Project\images\Top_Skills_in_Job_Postings.png)
